@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background: black;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* center everything */
+.container {
+    text-align: center;
+}
+
+/* AI face */
+.ai-image {
+    width: 380px;
+    max-width: 90%;
+}
+
+/* clean text like your app */
+#text {
+    margin-top: 30px;
+    font-size: 20px;
+    color: white;
+    max-width: 600px;
+}
