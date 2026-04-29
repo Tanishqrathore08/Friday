@@ -2,18 +2,15 @@ Friday AI – Desktop Voice Assistant
 🚀 Overview
 
 Friday AI is a Python-based desktop voice assistant that listens to user commands, processes them, and responds using both voice and on-screen text.
-
 It can perform tasks like opening applications, answering queries, and even presenting my personal portfolio interactively.
 
 🌐 Demo Website (Preview Only)
 
 ⚠️ This repository also includes a simple web version of the project hosted on GitHub Pages.
-
 This website is only a preview to showcase the idea and features of Friday AI.
 The actual working application is currently running and being developed on my local system.
 
 💡 Why I Built This
-
 I wanted to build something more practical than basic scripts—something that feels like a real product.
 
 This project helped me explore:
@@ -57,7 +54,6 @@ It uses predefined logic to respond to commands efficiently.
 
 📚 What I Learned
 Working with APIs (speech recognition)
-Multi-threading in real applications
 Building desktop UI using Tkinter
 Packaging Python apps into executable files
 Improving user experience
@@ -88,5 +84,4 @@ python main.py
 Or run the .exe file directly.
 
 🎯 Short Description (for recruiters)
-
 Friday AI is a Python-based desktop voice assistant that uses speech recognition, text-to-speech, and a Tkinter-based UI to perform tasks like answering queries, opening applications, and presenting a personal portfolio.
